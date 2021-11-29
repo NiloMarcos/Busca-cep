@@ -36,10 +36,10 @@ Para instalar o projeto em sua maquina siga os passos abaixo.
 <table  style="border: none">
   <tr>
     <td>
-      <img src="src/assets/BuscaCep1.png">
+      <img src="src/assets/BuscaCep2.png">
     </td>
     <td>
-      <img src="src/assets/BuscaCep2.png">
+      <img src="src/assets/BuscaCep1.png">
     </td>
   </tr>
 </table>
