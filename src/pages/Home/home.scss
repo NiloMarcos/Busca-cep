@@ -1,0 +1,38 @@
+.welcome-to-app {
+  margin: 3rem 5rem;
+
+  p {
+    margin-top: 1rem;
+  }
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2rem;
+
+  button {
+    width: 140px;
+    height: 40px;
+    border: 0;
+    border-radius: 6px;
+    background-color: #1d75cd;
+    transition: all 0.3s;
+    cursor: pointer;
+    margin-right: 1rem;
+  }
+
+  button:hover {
+    background-color: #01264b;
+  }
+
+  a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+  }
+}
+
+footer {
+  margin-left: 5rem;
+}

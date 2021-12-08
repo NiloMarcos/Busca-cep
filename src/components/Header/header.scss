@@ -1,0 +1,39 @@
+.header-home {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 2rem;
+  justify-content: flex-start;
+
+  h3 {
+    font-size: 24px;
+  }
+
+  .button-to-home {
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 22px;
+      transition: all 0.3s;
+    }
+
+    a:hover {
+      color: rgb(95, 95, 95);
+    }
+  }
+
+  .buttons {
+    margin-left: 1rem;
+    
+    a {
+      font-size: 18px;
+      color: #000;
+      text-decoration: none;
+      transition: all 0.3s;
+    }
+
+    a:hover {
+      color: cornflowerblue;
+    }
+  }
+}

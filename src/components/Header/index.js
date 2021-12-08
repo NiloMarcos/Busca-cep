@@ -1,13 +1,18 @@
-import React from 'react';
+import React from "react";
+import './header.scss';
+import { Link } from 'react-router-dom';
 
-import './header.css';
-
-export default function Header({ title }){
-  return(
-    <main>
-      <div className="div-principal">
-        <h3 className="title">{title}</h3>
-      </div>
-    </main>
+export default function Header() {
+  return (
+    <div>
+      <section className="header-home">
+        <section className="button-to-home">
+          <Link to="/">Inicío: </Link>
+        </section>
+        <section className="buttons">
+          <Link to="/buscacep">Buscar Cep</Link>
+        </section>
+      </section>
+    </div>
   );
 }

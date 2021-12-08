@@ -1,0 +1,20 @@
+.div-response {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 520px;
+  height: 140px;
+  background-color: #cdcdcd;
+  border-radius: 8px;
+  margin-top: 2rem;
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.30);
+}
+
+.info-cep {
+  display: flex;
+  flex-direction: column;
+
+  p {
+    margin-right: 1rem;
+  }
+}

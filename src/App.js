@@ -1,11 +1,10 @@
 import React from 'react';
+import Routes from './routes/routes';
 
-import Dashboard from './pages/Dashboard';
-
-import './App.css';
+import './App.scss';
 
 function App() {
-  return <Dashboard />;
+  return <Routes />;
 }
 
 export default App;
