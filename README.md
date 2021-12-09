@@ -10,7 +10,7 @@ Para instalar o projeto em sua maquina siga os passos abaixo.
 1. Clone o repositório
 
    ```sh
-   git clone hhttps://github.com/NiloMarcos/Busca-cep.git
+   git clone https://github.com/NiloMarcos/Busca-cep.git
    ```
 
 2. Entre na pasta
