@@ -29,18 +29,17 @@ Para instalar o projeto em sua maquina siga os passos abaixo.
 
    ```sh
    npm i
+   ```
+
+  
+  4. Rode o aplicação
+
+    ```sh
+    yarn start
+    ```
 
 ### Fotos da aplicação
-
-<p align="center">
-<table  style="border: none">
-  <tr>
-    <td>
-      <img src="src/assets/BuscaCep2.png">
-    </td>
-    <td>
-      <img src="src/assets/BuscaCep1.png">
-    </td>
-  </tr>
-</table>
-</p>
+<section align="center">
+  <img src="src/assets/cep1.png">
+  <img src="src/assets/cep2.png">    
+</section>
